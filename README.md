@@ -29,11 +29,11 @@ Feel free to customize and enhance this project according to your specific needs
 #UserInterface Images
 ![FrontPage](AttendanceImage/2023-06-24.png)
 #Other Section Images
-![Section](AttendanceImage/2023-06-24(1).png)<br>
-![Section1](AttendanceImage/2023-06-24(2).png)<br>
-![Section2](AttendanceImage/2023-06-24(3).png)<br>
-![Section3](AttendanceImage/2023-06-24(4).png)<br>
-![Section4](AttendanceImage/2023-06-24(5).png)<br>
-![Section5](AttendanceImage/2023-06-24(6).png)<br>
-![Section6](AttendanceImage/2023-06-24(7).png)<br>
+![Section](AttendanceImage/first.png)<br>
+![Section1](AttendanceImage/second.png)<br>
+![Section2](AttendanceImage/third.png)<br>
+![Section3](AttendanceImage/forth.png)<br>
+![Section4](AttendanceImage/fifth.png)<br>
+![Section5](AttendanceImage/sixth.png)<br>
+![Section6](AttendanceImage/seventh.png)<br>
 
