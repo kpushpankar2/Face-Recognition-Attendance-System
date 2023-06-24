@@ -28,4 +28,12 @@ Feel free to customize and enhance this project according to your specific needs
 
 #UserInterface Images
 ![FrontPage](AttendanceImage/2023-06-24.png)
+#Other Section Images
+![](AttendanceImage/2023-06-24(1).png)
+![](AttendanceImage/2023-06-24(2).png)
+![](AttendanceImage/2023-06-24(3).png)
+![](AttendanceImage/2023-06-24(4).png)
+![](AttendanceImage/2023-06-24(5).png)
+![](AttendanceImage/2023-06-24(6).png)
+![](AttendanceImage/2023-06-24(7).png)
 
