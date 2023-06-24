@@ -33,10 +33,10 @@ Feel free to customize and enhance this project according to your specific needs
 ![Section1](AttendanceImage/second.png)<br>
 ![Section2](AttendanceImage/third.png)<br>
 ![Section3](AttendanceImage/forth.png)<br>
-#  After the face Recognition the attendance is<br> 
+#  After the face Recognition the attendance is
 automaticaly Saved in Csv File
-#You can see in Attendance Section<br>
-#By Import Csv with time and Date
+You can see in Attendance Section
+By Import Csv with time and Date
 ![Section4](AttendanceImage/fifth.png)<br>
 ![Section5](AttendanceImage/sixth.png)<br>
 ![Section6](AttendanceImage/seventh.png)<br>
