@@ -2,10 +2,10 @@
 # Introduction
 This project is a Face Recognition Attendance System developed using Tkinter, OpenCV, and Python. It aims to provide an automated and efficient way to manage attendance using facial recognition technology. The system utilizes the webcam to capture the faces of individuals, compares them with pre-registered faces, and marks the attendance accordingly.
 # Features
-Face detection: The system utilizes the OpenCV library to detect and locate faces in real-time captured frames from the webcam.
-Face recognition: It employs advanced machine learning algorithms to recognize and match the detected faces with the pre-registered faces in the database.
-Attendance tracking: The system maintains a record of attendance by storing the date, time, and associated student or employee information.
-User-friendly interface: The graphical user interface is developed using Tkinter, making it intuitive and easy to navigate.
+Face detection: The system utilizes the OpenCV library to detect and locate faces in real-time captured frames from the webcam.<br>
+Face recognition: It employs advanced machine learning algorithms to recognize and match the detected faces with the pre-registered faces in the database.<br>
+Attendance tracking: The system maintains a record of attendance by storing the date, time, and associated student or employee information.<br>
+User-friendly interface: The graphical user interface is developed using Tkinter, making it intuitive and easy to navigate.<br>
 # Requirements
 Python: Ensure that Python is installed on your system. You can download it from the official Python website.
 OpenCV: Install the OpenCV library to enable face detection and recognition. Use the following command: pip install opencv-python
