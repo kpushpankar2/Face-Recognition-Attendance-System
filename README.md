@@ -25,3 +25,7 @@ Ensure that the lighting conditions are optimal for face detection and recogniti
 Maintain a database of registered faces for accurate attendance tracking.<br>
 Regularly update the face database to accommodate new members or changes in facial appearances.<br>
 Feel free to customize and enhance this project according to your specific needs. Contributions and feedback are welcome!<br>
+
+#UserInterface Images
+![FrontPage](AttendanceImage/2023-06-24.png)
+
