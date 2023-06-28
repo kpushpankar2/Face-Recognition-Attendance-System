@@ -27,17 +27,21 @@ Regularly update the face database to accommodate new members or changes in faci
 Feel free to customize and enhance this project according to your specific needs. Contributions and feedback are welcome!<br>
 
 #UserInterface Images
-![FrontPage](AttendanceImage/2023-06-24.png)
+![2023-06-24](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/6702c1a3-2eab-4335-a7c5-9c847d794eec)
+![first](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/2eda27f0-5614-47c3-8bda-8f8440507ae5)
+![second](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/cffeb95c-7b54-4a99-a1f2-e52d25622b0c)
+![third](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/7f8896e3-f843-4fd8-a945-1f4d4811403a)
+![forth](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/7fae6081-1470-4af3-be16-e6e1f126388f)
+
+
 #Other Section Images
-![Section](AttendanceImage/first.png)<br>
-![Section1](AttendanceImage/second.png)<br>
-![Section2](AttendanceImage/third.png)<br>
-![Section3](AttendanceImage/forth.png)<br>
+
 #  After the face Recognition the attendance is
 automaticaly Saved in Csv File
 You can see in Attendance Section
 By Import Csv with time and Date
-![Section4](AttendanceImage/fifth.png)<br>
-![Section5](AttendanceImage/sixth.png)<br>
-![Section6](AttendanceImage/seventh.png)<br>
+
+![fifth](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/c4e3afba-9e7f-467b-9e36-52347f2051ce)
+![sixth](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/c59d133c-7957-4f57-a355-449bb58edcbe)
+![seventh](https://github.com/kpushpankar2/Face-Recognition-Attendance-System/assets/99396103/0b987786-86de-49cf-b5b8-079531dd8dcd)
 
